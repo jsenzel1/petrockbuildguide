@@ -1,4 +1,7 @@
 # welcome to the pet rock build guide! 
+
+<img width="1452" alt="Screenshot 2023-08-14 at 12 00 54 AM" src="https://github.com/jsenzel1/petrockbuildguide/assets/32583382/edb37a2a-70ef-4105-8702-8a17c1feba3f">
+
 this build should be pretty easy and beginner friendly. The one slightly difficult part is soldering the power header - there is an alternative way to solder it which will look a bit worse but leave less room for mishaps. If you have reccomendations for this build guide open an issue or email me at petrockjonah@gmail.com
 
 - The **"front"** of the main pcb (black board) is the part with all the shiny metal bits like the battery cover, and the usb port*
@@ -21,6 +24,8 @@ The Long pins of the Header pass **through** the PCB.
 
 you will be soldering on the **front** of the pcb 
 
+![IMG_7213 Large](https://github.com/jsenzel1/petrockbuildguide/assets/32583382/cd518c41-028d-4a85-b3b4-588c1bd192c8)
+
 Be careful! lots of teeny tiny components here, don't get solder on them or connect them to the main pins - if you do, try to remedy it - if you accidently unseat a component, try and put it back where it was - I've tried my best to keep it clear ish, but as you can see this puppy is crowdeeedddd
 
 Be careful not to get solder on the end of
@@ -36,6 +41,8 @@ The Long pins of the Header pass **through** the PCB.
 
 you will be soldering on the **back** of the PCB
 
+![IMG_7212 Large](https://github.com/jsenzel1/petrockbuildguide/assets/32583382/a6ad2426-0c4c-41bb-9339-c836a02cb6af)
+
 Be careful not to get solder far up on the end of
 the long pins, to be sure that the power cable fits properly on the header pins
 
@@ -46,9 +53,14 @@ the long pins, to be sure that the power cable fits properly on the header pins
 push the lens pcb down on top of the pins, so that the text is facing you - it will be hard to push down. Solder two or more pins, one at each end of
 the connector, to hold it the PCB in place, being careful to not short any pins together (this step is optional - depending on the fit it will most likely be totally fine without solder - and worst case scenario you can just push it back into place or solder later if it happens to become a problem - my daily driver pet rock doesn't have it).
 
+![IMG_7209 Large](https://github.com/jsenzel1/petrockbuildguide/assets/32583382/a4a86599-55e6-4a21-92a8-2b9d09b02689)
+
 ## Step 3: Install pushbutton 
 Install pushbutton on **back** of main PCB (note that the pattern for the switch is on the front of
 the PCB, not the back).
+
+![IMG_7210 Large](https://github.com/jsenzel1/petrockbuildguide/assets/32583382/dbc62dbd-c806-440d-b53f-38f4c62cd81b)
+
 
 ## Step 4: Install jacks
 -Install 4 jacks on **front** of main PCB. After placing the jacks onto the PC board, place the
@@ -60,6 +72,9 @@ careful not to scratch the panel.
 
 - Install the battery into the battery holder on the main PCB. The positive (wider) side of the
 battery faces AWAY from the main PCB. Ensure the battery is pushed all the way into its holder.
+
+![IMG_7208 Large](https://github.com/jsenzel1/petrockbuildguide/assets/32583382/b60b4017-8068-4a46-9e51-eab25d2f01d8)
+
 
 - Flash the module! it's super easy - at [update.petrock.site](https://update.petrock.site/)
 
